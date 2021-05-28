@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi Divya here 👋
 
-My name is Divya and I am a passionate software and blockchain developer.
+I am a passionate software and blockchain developer.
 
 <p>
   <a href="https://twitter.com/dee013_"><img width="25" height="25" src="/res/twitter.svg"></a>
