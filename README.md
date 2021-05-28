@@ -1,6 +1,6 @@
 ### Hi Divya here 👋
 
-<a href=""><img width="25" height="25" src="/res/aesx.jpg"></a>
+<a href=""><img width="" height="" src="/res/aesx.jpg"></a>
 
 I am a passionate software and blockchain developer.
 
