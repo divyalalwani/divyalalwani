@@ -2,7 +2,7 @@
 
 My name is Divya and I am a passionate software and blockchain developer.
 
-<p align="center">
+<p>
   <a href="https://twitter.com/dee013_"><img width="25" height="25" src="/res/twitter.svg"></a>
   &nbsp;
   <a href="https://www.linkedin.com/in/divya-lalwani-"><img width="25" height="25" src="/res/linkedin.svg"></a>
