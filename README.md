@@ -13,7 +13,7 @@ I am a passionate software and blockchain developer.
   &nbsp;
   <a href="https://medium.com/@divyalalwani1310"><img width="25" height="25" src="/res/medium.svg"></a>
   &nbsp;
-  <a href="https://discord.gg/Divya#6824" target="blank"><img align="" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Divya#6824" height="25" width="25" /></a>
+  <a href="https://discord.gg/Divya#6824" target="blank"><img align="" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Divya#6824" height="25" width="40" /></a>
 
 </p>
 
