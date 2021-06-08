@@ -13,7 +13,6 @@ My expertise lies in the following: <br>
 • Frameworks and Tools: Scikit-Learn, Jupyter, Git, Postman, Unity, MATLAB, Octave, NumPy, OpenCV, REST API,s Tensorflow, Pandas <br>
 Courseworks: Data Structures, Algorithms, Computer Organization and Architecture, Web Technologies, Machine Learning, Artificial Intelligence, Software Engineering, Database Management System, Operating Systems. <br>
 
-I believe in thinking big, envisioning possibilities in every opportunity, facing challenges, being ready to fail in order to succeed and working hard to achieve every goal while enjoying the journey too.
 
 <p>
   <a href="https://twitter.com/dee013_"><img width="25" height="25" src="/res/twitter.svg"></a>
