@@ -10,6 +10,8 @@ Hey there!
   &nbsp;
   <a href="https://medium.com/@divyalalwani1310"><img width="25" height="25" src="/res/medium.svg"></a>
    &nbsp;
+  <a href="https://discord.com/Divya#6824"><img width="25" height="25" src="/res/download.png"></a>
+   &nbsp;
   
 
 </p>
