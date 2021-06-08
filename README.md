@@ -1,16 +1,4 @@
-
-
-<a href=""><img width="" height="" src="/res/aesx.jpg"></a>
-
-I am interested in Software Development, Full Stack Development, Object-Oriented Programming, Blockchain Development, DeFi and Mobile App Development. <br>
-I love developing solutions to real-world problems, working in cutting edge technologies and increasing my knowledge by learning new things.
-
-My expertise lies in the following: <br>
-• Languages: Python, Java, C, SQL, Solidity <br>
-• Web Technologies : JavaScript, ReactJS, NodeJS, REST APIs, AWS, Python Flask, HTML5, CSS3, jQuery, JSON <br>
-• Databases: MySQL, MongoDB <br>
-• Frameworks and Tools: Scikit-Learn, Jupyter, Git, Postman, Unity, MATLAB, Octave, NumPy, OpenCV, REST API,s Tensorflow, Pandas <br>
-Courseworks: Data Structures, Algorithms, Computer Organization and Architecture, Web Technologies, Machine Learning, Artificial Intelligence, Software Engineering, Database Management System, Operating Systems. <br>
+Hey there!
 
 
 <p>
@@ -30,3 +18,14 @@ Courseworks: Data Structures, Algorithms, Computer Organization and Architecture
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=divyalalwani&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=divyalalwani&theme=tokyonight" />
 </p>
+
+I am interested in Software Development, Full Stack Development, Object-Oriented Programming, Blockchain Development, DeFi and Mobile App Development. <br>
+I love developing solutions to real-world problems, working in cutting edge technologies and increasing my knowledge by learning new things.
+
+My expertise lies in the following: <br>
+• Languages: Python, Java, C, SQL, Solidity <br>
+• Web Technologies : JavaScript, ReactJS, NodeJS, REST APIs, AWS, Python Flask, HTML5, CSS3, jQuery, JSON <br>
+• Databases: MySQL, MongoDB <br>
+• Frameworks and Tools: Scikit-Learn, Jupyter, Git, Postman, Unity, MATLAB, Octave, NumPy, OpenCV, REST API,s Tensorflow, Pandas <br>
+Courseworks: Data Structures, Algorithms, Computer Organization and Architecture, Web Technologies, Machine Learning, Artificial Intelligence, Software Engineering, Database Management System, Operating Systems. <br>
+
