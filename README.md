@@ -28,6 +28,6 @@ My expertise lies in the following: <br>
 • Languages: Python, Java, C, SQL, Solidity <br>
 • Web Technologies : Javascript, ReactJS, NodeJS, REST APIs, AWS, Python Flask, HTML5, CSS3, jQuery, JSON <br>
 • Databases: MySQL, PostgreSQL <br>
-• Frameworks and Tools: Scikit-Learn, Jupyter, Git, Postman, Unity, MATLAB, Octave, NumPy, OpenCV, REST API,s Tensorflow, Pandas <br>
+• Frameworks and Tools: Scikit-Learn, Jupyter, Git, Postman, MATLAB, NumPy, OpenCV, REST API,s Tensorflow, Pandas <br>
 Courseworks: Data Structures, Algorithms, Computer Organization and Architecture, Web Technologies, Machine Learning, Artificial Intelligence, Software Engineering, Database Management System, Operating Systems. <br>
 
