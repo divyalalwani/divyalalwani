@@ -6,8 +6,6 @@ Hey there!
   &nbsp;
   <a href="https://www.linkedin.com/in/divya-lalwani-"><img width="25" height="25" src="/res/linkedin.svg"></a>
   &nbsp;
-  <a href="https://www.instagram.com/divya_013/"><img width="25" height="25" src="/res/instagram.svg"></a>
-  &nbsp;
   <a href="https://medium.com/@divyalalwani1310"><img width="25" height="25" src="/res/medium.svg"></a>
    &nbsp;
   <a href="https://discord.com/Divya#6824"><img width="29" height="28" src="/res/discord.png"></a>
