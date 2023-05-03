@@ -23,9 +23,9 @@ I am interested in Software Development, Full Stack Development, Object-Oriented
 I love developing solutions to real-world problems, working in cutting edge technologies and increasing my knowledge by learning new things.
 
 My expertise lies in the following: <br>
-• Languages: Python, Java, C, SQL, Solidity <br>
-• Web Technologies : Javascript, ReactJS, NodeJS, REST APIs, AWS, Python Flask, HTML5, CSS3, jQuery, JSON <br>
+• Languages: Javascript, Java, C, SQL, Solidity <br>
+• Web Technologies : Javascript, ReactJS, NodeJS, REST APIs, AWS, HTML5, CSS3, jQuery, JSON <br>
 • Databases: MySQL, PostgreSQL <br>
-• Frameworks and Tools: Scikit-Learn, Jupyter, Git, Postman, MATLAB, NumPy, OpenCV, REST API,s Tensorflow, Pandas <br>
+• Frameworks and Tools:  Git, Postman, MATLAB, OpenCV, REST API,s, Apache Kafka(learning) <br>
 Courseworks: Data Structures, Algorithms, Computer Organization and Architecture, Web Technologies, Machine Learning, Artificial Intelligence, Software Engineering, Database Management System, Operating Systems. <br>
 
