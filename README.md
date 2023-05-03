@@ -6,7 +6,7 @@ Hey there!
   &nbsp;
   <a href="https://www.linkedin.com/in/divya-lalwani-"><img width="25" height="25" src="/res/linkedin.svg"></a>
   &nbsp;
-  <a href="https://medium.com/@divya.lalwani"><img width="25" height="25" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbrandslogos.com%2Fm%2Fmedium-logo%2F&psig=AOvVaw0oJzoglvSBVl6fbpcP0E_K&ust=1683198372733000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKi-4NqA2f4CFQAAAAAdAAAAABAS"></a>
+  <a href="https://medium.com/@divya.lalwani"><img width="25" height="25" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfegEXbuXFl2-qwnZ_mFcTm1rzKQuJo-bUkocZJ8q6lio8VLgXj2si_tR6humk9KjU8Sw&usqp=CAU"></a>
    &nbsp;
   <a href="https://discord.com/Divya#6824"><img width="29" height="28" src="/res/discord.png"></a>
    &nbsp;
