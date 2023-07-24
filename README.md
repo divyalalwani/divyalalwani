@@ -25,7 +25,7 @@ I love developing solutions to real-world problems, working in cutting edge tech
 My expertise lies in the following: <br>
 • Languages: Javascript, Java, C, SQL, Solidity <br>
 • Web Technologies : Javascript, ReactJS, NodeJS, REST APIs, AWS, HTML5, CSS3, jQuery, JSON <br>
-• Databases: MySQL, PostgreSQL <br>
+• Databases: MySQL, PostgreSQL, InfluxDB <br>
 • Frameworks and Tools:  Git, Postman, MATLAB, OpenCV, REST API,s, Apache Kafka(learning) <br>
 Courseworks: Data Structures, Algorithms, Computer Organization and Architecture, Web Technologies, Machine Learning, Artificial Intelligence, Software Engineering, Database Management System, Operating Systems. <br>
 
