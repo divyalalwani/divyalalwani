@@ -15,8 +15,8 @@ Hey there!
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=divyalalwani&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=divyalalwani&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=divyalalwani&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=divyalalwani&theme=radical" />
 </p>
 
 I am interested in Software Development, Full Stack Development, Object-Oriented Programming, Blockchain Development, DeFi and Mobile App Development. <br>
