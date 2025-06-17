@@ -23,9 +23,9 @@ I am interested in Software Development, Object-Oriented Programming, Blockchain
 I love developing solutions to real-world problems, working in cutting edge technologies and increasing my knowledge by learning new things.
 
 My expertise lies in the following: <br>
-• Languages: Javascript, Java, C, Solidity <br>
+• Languages: Javascript, Java, C, Python <br>
 • Web Technologies : Javascript, NodeJs <br>
-• Databases: MySQL, PostgreSQL, InfluxDB <br>
-• Frameworks and Tools: OpenCV, REST APIs, Apache Kafka(learning) <br>
+• Databases: MySQL, PostgreSQL, MongoDB, Azure Cognitive Search <br>
+• Frameworks and Tools: REST APIs, Apache Kafka(learning) <br>
 Courseworks: Data Structures, Algorithms, Computer Organization and Architecture, Web Technologies, Machine Learning, Artificial Intelligence, Software Engineering, Database Management System, Operating Systems. <br>
 
