@@ -19,7 +19,7 @@ Hey there!
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=divyalalwani&theme=radical" />
 </p>
 
-I am interested in Software Development, Object-Oriented Programming, Blockchain Development, DeFi and Mobile App Development. <br>
+I am interested in Software Development, Object-Oriented Programming, Blockchain Development and Cybersecurity. <br>
 I love developing solutions to real-world problems, working in cutting edge technologies and increasing my knowledge by learning new things.
 
 My expertise lies in the following: <br>
